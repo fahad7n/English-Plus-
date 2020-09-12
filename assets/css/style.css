@@ -2149,3 +2149,17 @@ section {
     background: green;
     color: white;
 } */
+
+.whatsapp {
+  position: fixed;
+  right: 12px;
+  top: 52%;
+  border-radius: 4px;
+ 
+}
+.whatsapp h5 {
+  color: white;
+  background: #20b20f;
+  padding: 14px;
+  border-radius: 24px;
+}
