@@ -2163,3 +2163,13 @@ section {
   padding: 14px;
   border-radius: 24px;
 }
+
+
+input[type="checkbox"]{
+  width: 30px; /*Desired width*/
+  height: 40px; /*Desired height*/
+  cursor: pointer;
+  
+ 
+
+}
